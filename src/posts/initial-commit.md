@@ -3,13 +3,12 @@ title: Initial Commit
 description: Something is ironically boiling here
 date: '2023-11-18'
 categories:
-  - ironicreality
+  - Ironic Reality
 published: true
 ---
 
-### Markdown
+### Something is ironically boiling here 🧪
 
-Something is ironically boiling here 🧪
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie interdum pharetra. Ut posuere varius enim id interdum. Nullam fermentum tellus a vehicula placerat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce placerat efficitur semper. Pellentesque viverra est quis convallis scelerisque. Morbi auctor odio et purus sodales consequat. Vestibulum vulputate odio justo, vitae vehicula urna pulvinar eget. Pellentesque consectetur lacus dapibus justo laoreet finibus. Nam enim ipsum, tristique a vehicula egestas, dignissim vitae sapien.
 
 Sed egestas nulla id eros aliquam, nec ornare eros efficitur. Aenean maximus metus eget volutpat pharetra. Fusce et ligula ut ipsum varius blandit. Fusce eget ante id quam consectetur scelerisque. Aenean eu eleifend elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed pharetra, felis vitae vulputate interdum, dui arcu sollicitudin nunc, eget vulputate nisl odio in metus.

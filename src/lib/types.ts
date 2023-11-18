@@ -1,4 +1,4 @@
-export type Categories = 'ironicreality';
+export type Categories = 'Ironic Reality';
 
 export type Post = {
 	title: string;
